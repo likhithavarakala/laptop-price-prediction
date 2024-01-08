@@ -1,21 +1,23 @@
-Laptop Price Prediction
-Overview
+**Laptop Price Prediction**
+**Overview**
 This project aims to predict laptop prices using the "Laptop Price Prediction" dataset obtained from Kaggle. The dataset consists of 1303 rows and 12 variables, including information such as laptop specifications, manufacturer details, and pricing.
 
-Dataset Information
-Columns:
-Laptop_Id: Unique ID of the laptop
-Company: Manufacturer of the laptop
-TypeName: Type of laptop (Notebook, Ultrabook, Gaming, etc.)
-Inches: Screen size
-ScreenResolution: Screen resolution of the laptop
-Cpu: CPU brand, type, and speed
-Ram: Laptop RAM
-Memory: Hard Disk / SSD Memory
-Gpu: Graphics Processing Units (GPU)
-OpSys: Operating System
-Weight: Weight of the laptop in kg
-Price: Price of the laptop in INR
+**Dataset Information
+Columns:**
+**Laptop_Id:** Unique ID of the laptop
+**Company:** Manufacturer of the laptop
+**TypeName: **Type of laptop (Notebook, Ultrabook, Gaming, etc.)
+**Inches:** Screen size
+**ScreenResolution:** Screen resolution of the laptop
+**Cpu: **CPU brand, type, and speed
+**Ram:** Laptop RAM
+**Memory:** Hard Disk / SSD Memory
+**Gpu:** Graphics Processing Units (GPU)
+**OpSys:** Operating System
+**Weight:** Weight of the laptop in kg
+**Price:** Price of the laptop in INR
+
+
 Questions Explored
 Factors Affecting Laptop Price:
 Explored the aspects influencing the final cost of a laptop.
